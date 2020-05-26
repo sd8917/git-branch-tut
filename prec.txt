@@ -1,4 +1,14 @@
 ﻿Hello sudhanshu we are practicing how the branching work in the git.
 Branch 1 end
 
+second brach added happing coding 
+name  - second_branch
+changes 
+here add the thing tp check in which branch use
+git branch.
+
+git push -u origin <branch>
+
+added into second branch.s
+
 
